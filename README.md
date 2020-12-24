@@ -1,5 +1,5 @@
-<a href='http://dytuk.me/discord' target='_blank'>![alt Discord](https://img.shields.io/discord/659873886271438848?color=7289da&logo=discord&logoColor=white)</a> <a href='https://dytuk.me/support' target='_blank'>![alt support](https://img.shields.io/badge/donate-free%2Fpaid-blue)</a>
-
+<a href='http://discord.gg/n3uEJwg' target='_blank'>![alt Discord](https://img.shields.io/discord/659873886271438848?color=7289da&logo=discord&logoColor=white)</a> <a href='https://paypal.me/RileyBWayz?locale.x=en_US' target='_blank'>![alt support](https://img.shields.io/badge/donate-free%2Fpaid-blue)</a>
+<a href='https://www.patreon.com/m/novanetwork' target='_blank'>![alt patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=for-the-badge)</a>
 # Google Forms to Discord (GF2D)
 Google Forms to Discord, GF2D for  short, is a free Google Apps Script,
 
